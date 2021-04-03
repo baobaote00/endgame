@@ -1,0 +1,11 @@
+{
+    "name": "baobaote/endgame",
+    "description": "for example",
+    "authors": [
+        {
+            "name": "baobaote00",
+            "email": "baobaote00@gmail.com"
+        }
+    ],
+    "require": {}
+}
